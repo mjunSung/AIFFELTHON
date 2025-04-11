@@ -28,3 +28,10 @@
 
 ---
 ## Metrics
+
+
+
+## Folders
+- Rag_system : 사용 모델
+- app : Demo dokcer files
+- eda_preprocessing : 데이터 EDA 및 전처리 
