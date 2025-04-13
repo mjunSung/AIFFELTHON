@@ -28,7 +28,14 @@
 
 ---
 ## Metrics
-### 페르소나별 RAGAS Faithfulness, Answer Relevancy 점수 비교
+### 평가 모델
+| Model   | RAG                            | Method | VDB  |
+|---------|--------------------------------|--------|------|
+| Model1  | NaiveRAG                       | Score  | v1   |
+| Model2  | ModularRAG                     | Action | v1   |
+| Model3  | ModularRAG + Hybrid Search     | Action | v2   |
+
+### Model3 페르소나별 RAGAS Faithfulness, Answer Relevancy 점수 비교
 | 페르소나     | Faithfulness | Answer Relevancy |
 |--------------|--------------|------------------|
 | General      | 0.880        | 0.749            |
@@ -45,8 +52,6 @@
 | 추천도서적합성           | 3.82   | 4.50   | 4.74   | 4.90    |
 | 대화흐름자연스러움       | 4.15   | 4.62   | 4.76   | 4.95    |
 | 추천이유설명력           | 4.48   | 4.52   | 4.71   | 4.10    |
-
-
          
 A/B Test 결과 (우수 응답 선택)
 | 비교 항목               | Response A (Model3) | Response B (비교 모델) |
