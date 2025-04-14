@@ -15,7 +15,8 @@
 ---
 ## System Pipeline
 ![image](https://github.com/user-attachments/assets/c2505642-8a82-4c47-9cb1-4440c211024e)
-![image](https://github.com/user-attachments/assets/0435f383-e87c-4b51-9a51-6d2be5302203)
+![image](https://github.com/user-attachments/assets/b9ba75ff-251c-41c2-be33-32a83d92a4bd)
+
 
 ---
 ## 사용 모델
