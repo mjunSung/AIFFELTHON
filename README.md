@@ -62,6 +62,7 @@ A/B Test 결과 (우수 응답 선택)
 | Model3 vs CremaAI      | 34                  | 26                     |
 
 ## Folders
+- Evaluation : 평가 지표 자료
 - Rag_system : 사용 모델
 - app : Demo dokcer files
 - eda_preprocessing : 데이터 EDA 및 전처리 
